@@ -1,0 +1,89 @@
+.list{
+    list-style: none;
+    background-color: white;
+    height: auto;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.datediv{
+    background-color: #8884d8;
+    margin-left: 20px;
+    height: auto;
+    width: 100px;
+    border: 1px solid white;
+    border-radius: 10px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.day{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.month{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.year{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.aboutdiv{
+    display: grid;
+    justify-content: space-between;
+    align-items: center;
+    width: 600px;
+    font-family:cursive;   margin-left: 30px;
+}
+.category{
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.amount{
+    margin-left: 30px;
+    font-size: 30px;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.filterDiv{
+    margin-bottom: 30px;
+    margin-left: 40px;
+    padding-bottom: 20px;
+}
+
+.yearlabel{
+    font-size: 20px;
+    font-family: monospace;
+    margin-right: 20px;
+}
+
+.selectyear{
+    font-size: 15px;
+    width: 80px;
+    height: 30px;
+}

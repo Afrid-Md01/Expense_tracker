@@ -1,0 +1,16 @@
+.App {
+  min-height: 100vh;
+}
+
+.dark-theme{
+  background-color: #3b3b3b;
+  opacity: 1;
+}
+
+.loadingPhase{
+  text-align: center;
+  padding-top: 100px;
+  font-family: cursive;
+}
+
+

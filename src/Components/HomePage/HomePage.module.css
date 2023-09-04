@@ -1,0 +1,11 @@
+.nothing{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    font-family: monospace;
+}
+
+.addSomeExpenses{
+    display: flex;
+    justify-content: center;
+}

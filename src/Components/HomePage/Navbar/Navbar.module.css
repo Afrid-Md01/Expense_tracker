@@ -1,0 +1,42 @@
+.verify{
+    color: rgb(202, 202, 202);
+    font-family: monospace;
+    text-decoration: underline;
+    padding-top: 20px;
+}
+
+.rightSpan{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: auto;
+    font-family: monospace;
+    margin-right: 0%;
+}
+
+.leftSpan{
+    padding-left: 5%;
+    width: auto;
+}
+
+.verify:hover{
+    cursor: pointer;
+    color: white;
+}
+
+.checkbox{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.darkmodeSpan{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.inbetween{
+    margin-left: 10px;
+    margin-right: 10px;
+}

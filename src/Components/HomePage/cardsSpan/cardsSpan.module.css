@@ -1,0 +1,42 @@
+.maindivinCard{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.leftSpan{
+    display: grid;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.totalText{
+    font-size: 25px;
+    font-family: cursive;
+}
+
+.total{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: monospace;
+}
+
+.icon{
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.progressbar{
+    margin-top: 20px;
+}
+
+.downloadLink{
+    text-decoration: none;
+}
+
+.csvlink{
+    font-size: 20px;
+
+}

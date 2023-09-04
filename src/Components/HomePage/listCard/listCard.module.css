@@ -1,0 +1,29 @@
+.lbl{
+    color: white;
+    font-size: 20px;
+    font-family:fantasy
+}
+
+.sel{
+    margin-left: 10px;
+    width: 80px;
+    border-radius: 5px;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+.uldiv{
+    margin-top: 30px;
+}
+
+.formdiv{
+    margin-left: 30px;
+}
+
+.noExpense{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-family: monospace;
+}

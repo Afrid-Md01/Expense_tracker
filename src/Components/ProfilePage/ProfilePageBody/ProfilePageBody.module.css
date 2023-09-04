@@ -1,0 +1,45 @@
+.body {
+  margin-top: 5%;
+  margin-left: 10%;
+  margin-right: 10%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  /* background-color: white; */
+}
+
+.imageSpan {
+  width: 350px;
+  height: 350px;
+  display: grid;
+  /* border-radius: 50%; */
+}
+
+.formSpan {
+  width: 600px;
+}
+
+
+
+.dummyImage{
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
+
+.backImg{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.uploadImg{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image{
+  width: 50px;
+  height: auto;
+}
